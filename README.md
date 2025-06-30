@@ -8,7 +8,7 @@ This project analyzes crime data in Los Angeles from 2020 to Present, focusing o
 
 # 📂 Dataset
 
-Source: [(Include the link to the dataset if publicly available)](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+Source: (https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 Format: CSV file containing crime incidents with details like date, location, and type.
 
 ---
